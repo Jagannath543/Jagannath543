@@ -1,10 +1,12 @@
 # Hello, I'm Punja Jagannath 👋
 
-## 🚀 Technologies I Use
+##
+
+🚀 Technologies I Use
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📈 GitHub Stats
 
