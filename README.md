@@ -12,7 +12,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Sass](https://img.shields.io/badge/Sass-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-3776AB?style=for-the-badge&logo=sass&logoColor=white)
 
 
 ## 📈 GitHub Stats
