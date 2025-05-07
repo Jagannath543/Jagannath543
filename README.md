@@ -1,7 +1,11 @@
-###Hi there 👋, I'm Punja jagannath !
+# Hello, I'm Punja Jagannath 👋
 
-👩‍💻 𝒞𝑜𝒹𝒾𝓃𝑔 𝓌𝒾𝓉𝒽 𝒮𝓉𝓎𝓁𝑒 ✨ 𝒯𝑒𝒸𝒽𝓃𝑜-𝒩𝒾𝓃𝒿𝒶 👩‍💻
+## 🚀 Technologies I Use
 
-💻 Tech Stack:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+## 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
